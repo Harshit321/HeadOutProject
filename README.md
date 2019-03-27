@@ -6,5 +6,6 @@
 4. Complete the checkout.
 
 Technologies Used - Selenium, Java, TestNG
+Design Pattern Used - Page Object Mode, Page Factory
 
 We can run the entire suite using BookShow.xml by right clicking on it and selecting "Run as TestNG suite"
