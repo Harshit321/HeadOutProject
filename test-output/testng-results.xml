@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-03-27T18:04:03Z" name="Default suite" finished-at="2019-03-27T18:04:39Z" duration-ms="35292">
+    <groups>
+    </groups>
+    <test started-at="2019-03-27T18:04:03Z" name="Default test" finished-at="2019-03-27T18:04:39Z" duration-ms="35292">
+      <class name="automation.BookTickets">
+        <test-method is-config="true" signature="setup()[pri:0, instance:automation.BookTickets@5b94b04d]" started-at="2019-03-27T18:04:03Z" name="setup" finished-at="2019-03-27T18:04:10Z" duration-ms="6436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="selectShow()[pri:0, instance:automation.BookTickets@5b94b04d]" started-at="2019-03-27T18:04:10Z" name="selectShow" finished-at="2019-03-27T18:04:16Z" duration-ms="5945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectShow -->
+        <test-method signature="selectDate()[pri:1, instance:automation.BookTickets@5b94b04d]" started-at="2019-03-27T18:04:16Z" name="selectDate" finished-at="2019-03-27T18:04:22Z" duration-ms="6605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDate -->
+        <test-method signature="selectSeat()[pri:2, instance:automation.BookTickets@5b94b04d]" started-at="2019-03-27T18:04:22Z" name="selectSeat" finished-at="2019-03-27T18:04:24Z" duration-ms="1709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectSeat -->
+        <test-method signature="checkOut()[pri:3, instance:automation.BookTickets@5b94b04d]" started-at="2019-03-27T18:04:24Z" name="checkOut" finished-at="2019-03-27T18:04:38Z" duration-ms="14305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOut -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:automation.BookTickets@5b94b04d]" started-at="2019-03-27T18:04:38Z" name="closeBrowser" finished-at="2019-03-27T18:04:39Z" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automation.BookTickets -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
